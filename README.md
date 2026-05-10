@@ -27,12 +27,6 @@ Si no aparece ningun mensaje, el archivo esta correcto.
 
 ## Ejecutar analisis
 
-Analizar `camara1.avi` y `camara1.1.avi` juntos:
-
-```bash
-./analizar_camara1.sh
-```
-
 Analizar el conjunto configurado del proyecto:
 
 ```bash
