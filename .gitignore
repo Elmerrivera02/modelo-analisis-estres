@@ -1,0 +1,31 @@
+# Entornos y cache
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Archivos internos de herramientas
+.codex
+.agents/
+
+# Videos y datasets pesados
+*.mp4
+*.avi
+*.mov
+*.mkv
+fer2013.csv
+Data/
+
+# Resultados generados por el analisis
+analisis_*/
+*_analisis.csv
+*_resumen_personas.csv
+*_reporte_general.txt
+*_reportes_personas/
+*_rostros/
+*_tablas_estadisticas/
+analisis_ejecucion_errores.csv
+
+# Archivos temporales
+*.log
+*.tmp
